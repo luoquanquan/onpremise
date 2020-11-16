@@ -1,4 +1,4 @@
-# Self-Hosted Sentry 20.10.1
+# Self-Hosted Sentry For bjh
 
 Official bootstrap for running your own [Sentry](https://sentry.io/) with [Docker](https://www.docker.com/).
 
